@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "omethords",
+            "request": "launch",
+            "mainClass": "omethords",
+            "projectName": "java-brocode-study_22edba8c"
+        },
+        {
+            "type": "java",
+            "name": "foreloop",
+            "request": "launch",
+            "mainClass": "foreloop",
+            "projectName": "java-brocode-study_22edba8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "arrlist",
+            "request": "launch",
+            "mainClass": "arrlist",
+            "projectName": "java-brocode-study_22edba8c"
+        },
+        {
+            "type": "java",
+            "name": "guiintro",
+            "request": "launch",
+            "mainClass": "guiintro",
+            "projectName": "java-brocode-study_22edba8c"
+        },
+        {
+            "type": "java",
+            "name": "helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "java-brocode-study_22edba8c"
+        },
+        {
+            "type": "java",
+            "name": "mathclass",
+            "request": "launch",
+            "mainClass": "mathclass",
+            "projectName": "java-brocode-study_22edba8c"
+        },
+        {
+            "type": "java",
+            "name": "stringclass",
+            "request": "launch",
+            "mainClass": "stringclass",
+            "projectName": "java-brocode-study_22edba8c"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java-brocode-study_22edba8c"
+        }
+    ]
+}
