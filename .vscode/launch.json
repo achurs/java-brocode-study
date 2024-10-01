@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "finalkey",
+            "request": "launch",
+            "mainClass": "finalkey",
+            "projectName": "java-brocode-study_22edba8c"
+        },
+        {
+            "type": "java",
+            "name": "toStringmethord",
+            "request": "launch",
+            "mainClass": "toStringmethord",
+            "projectName": "java-brocode-study_22edba8c"
+        },
+        {
+            "type": "java",
             "name": "omethords",
             "request": "launch",
             "mainClass": "omethords",
